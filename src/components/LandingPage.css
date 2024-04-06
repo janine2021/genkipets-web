@@ -1,0 +1,19 @@
+.landing-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .welcome-note {
+    text-align: center;
+  }
+  
+  .welcome-note h1 {
+    font-size: 2.5rem;
+  }
+  
+  .welcome-note p {
+    font-size: 1.2rem;
+  }
+  
