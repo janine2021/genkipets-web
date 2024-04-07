@@ -1,0 +1,88 @@
+/* src/components/Dashboard.css */
+
+.dashboard {
+    display: flex;
+    justify-content: space-between;
+}
+
+.dashboard-section {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: 0 8px;
+    border-radius: 8px;
+    overflow: hidden;
+    height: 360px;
+}
+
+.section-content {
+    padding: 16px;
+    background-color: rgb(243, 244, 245);
+    height: 360px;
+    min-height: 360px;
+}
+
+.dashboard-section:not(:last-child) {
+    margin-right: 0;
+    /* Remove right margin from last section */
+}
+
+.section-header {
+    display: flex;
+    /* Use flexbox layout */
+    justify-content: space-between;
+    /* Align items to the start and end */
+    align-items: center;
+    /* Center items vertically */
+    font-weight: bold;
+    padding: 24px;
+    /* Add padding to create space between sections */
+    background-color: rgb(243, 244, 245);
+    /* Background color for sections */
+}
+
+.section-button {
+    margin-top: 10px;
+    background-color: rgb(233, 236, 239);
+    color: #333;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-size: small;
+    font-weight: bold;
+    transition: background-color 0.3s;
+}
+
+.section-button:hover {
+    background-color: rgb(197, 200, 204);
+    cursor: pointer;
+}
+
+.create-icon {
+    margin-right: 4px;
+    font-size: small;
+    font-weight: bold;
+}
+
+@media (max-width: 768px) {
+    .dashboard {
+        flex-direction: column;
+        /* Stack sections vertically on smaller screens */
+    }
+
+    .dashboard-section {
+        margin: 0;
+        /* Remove margin on smaller screens */
+        margin-bottom: 16px;
+        /* Add bottom margin to separate sections */
+        height: auto;
+    }
+
+    .button {
+        margin-left: 0;
+        /* Remove left margin for button on smaller screens */
+    }
+}
