@@ -1,7 +1,16 @@
 {
   "name": "genkipets-web",
+  "homepage": "https://janine2021.github.io/genkipets-web/",
   "version": "0.1.0",
   "private": true,
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "eject": "react-scripts eject"
+  },
   "dependencies": {
     "@apollo/client": "^3.9.10",
     "@reduxjs/toolkit": "^2.2.3",
@@ -16,14 +25,6 @@
     "react-scripts": "^3.0.1",
     "redux": "^5.0.1",
     "web-vitals": "^2.1.4"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
