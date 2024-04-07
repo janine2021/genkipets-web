@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/genkipets-web/static/css/main.110b7a55.chunk.css",
+    "main.js": "/genkipets-web/static/js/main.8c6bbd28.chunk.js",
+    "main.js.map": "/genkipets-web/static/js/main.8c6bbd28.chunk.js.map",
+    "runtime-main.js": "/genkipets-web/static/js/runtime-main.d3550849.js",
+    "runtime-main.js.map": "/genkipets-web/static/js/runtime-main.d3550849.js.map",
+    "static/js/2.e2526ed7.chunk.js": "/genkipets-web/static/js/2.e2526ed7.chunk.js",
+    "static/js/2.e2526ed7.chunk.js.map": "/genkipets-web/static/js/2.e2526ed7.chunk.js.map",
+    "static/js/3.772cb494.chunk.js": "/genkipets-web/static/js/3.772cb494.chunk.js",
+    "static/js/3.772cb494.chunk.js.map": "/genkipets-web/static/js/3.772cb494.chunk.js.map",
+    "index.html": "/genkipets-web/index.html",
+    "precache-manifest.7c86de13c8b64ac2578b20af9b4b346b.js": "/genkipets-web/precache-manifest.7c86de13c8b64ac2578b20af9b4b346b.js",
+    "service-worker.js": "/genkipets-web/service-worker.js",
+    "static/css/main.110b7a55.chunk.css.map": "/genkipets-web/static/css/main.110b7a55.chunk.css.map",
+    "static/js/2.e2526ed7.chunk.js.LICENSE.txt": "/genkipets-web/static/js/2.e2526ed7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3550849.js",
+    "static/js/2.e2526ed7.chunk.js",
+    "static/css/main.110b7a55.chunk.css",
+    "static/js/main.8c6bbd28.chunk.js"
+  ]
+}
