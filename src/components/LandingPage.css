@@ -1,46 +1,45 @@
 /* src/components/LandingPage.css */
 
 .landing-page {
-  width: 100%;
-  max-width: 100%;
-  /* Set maximum width for content */
-  margin: 0 auto;
-  padding: 0 20px;
-  box-sizing: border-box;
+	width: 100%;
+	max-width: 100%;
+	/* Set maximum width for content */
+	margin: 0 auto;
+	padding: 0 20px;
+	box-sizing: border-box;
 }
 
 .welcome-note {
-  text-align: center;
-  margin-bottom: 20px;
+	text-align: center;
+	margin-bottom: 20px;
 }
 
 .landing-body {
-  display: flex;
-  flex-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
 }
 
 .dashboard-section {
-  width: 100%;
-  /* By default, each section occupies full width */
-  margin: 0 16px;
-  /* Set left and right margin of 16px each */
+	width: 100%;
+	/* By default, each section occupies full width */
+	margin: 0 16px;
+	/* Set left and right margin of 16px each */
 }
 
 @media (min-width: 768px) {
-  .landing-page {
-    padding: 0 10px;
-    /* Reduce padding for smaller screens */
-  }
+	.landing-page {
+		padding: 0 10px;
+	}
 
-  .welcome-note {
-    font-size: 18px;
-    /* Adjust font size for smaller screens */
-    padding: 0 20px;
-    /* Add padding to the sides for better readability */
-  }
+	.welcome-note {
+		font-size: 18px;
+		/* Adjust font size for smaller screens */
+		padding: 0 20px;
+		/* Add padding to the sides for better readability */
+	}
 
-  .dashboard-section {
-    width: 50%;
-    /* Each section occupies half width on screens wider than 768px */
-  }
+	.dashboard-section {
+		width: 50%;
+		/* Each section occupies half width on screens wider than 768px */
+	}
 }
