@@ -1,3 +1,3 @@
 export const setTitle = (newTitle) => {
-    document.title = newTitle;
+	document.title = newTitle;
 };
