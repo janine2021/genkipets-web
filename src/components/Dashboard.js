@@ -2,36 +2,13 @@
 
 import React from "react";
 import "./Dashboard.css";
-import { FaPlus } from "react-icons/fa";
+import Section from "./Section";
 
 const Dashboard = () => {
 	return (
 		<div className="dashboard">
-			<div className="dashboard-section">
-				<div className="section-header">
-					<div className="section-title">Your furbaby reminder</div>
-					<button className="section-button">
-						<FaPlus className="create-icon" />
-						<span>New reminder</span>
-					</button>
-				</div>
-				<div className="section-content">
-					{/* Your section body content goes here */}
-				</div>
-			</div>
-
-			<div className="dashboard-section">
-				<div className="section-header">
-					<div className="section-title">Genki and Shiro's IDs</div>
-					<button className="section-button">
-						<FaPlus className="create-icon" />
-						<span>New ID</span>
-					</button>
-				</div>
-				<div className="section-content">
-					{/* Your section body content goes here */}
-				</div>
-			</div>
+			<Section title="Your furbaby reminder" buttonText="New reminder" />
+			<Section title="Genki and Shiro's IDs" buttonText="New ID" />
 		</div>
 	);
 };
