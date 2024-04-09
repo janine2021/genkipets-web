@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8f513fd7.chunk.css",
-    "main.js": "/static/js/main.5b9b3918.chunk.js",
-    "main.js.map": "/static/js/main.5b9b3918.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.655d7bce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.655d7bce.js.map",
-    "static/js/2.2ba1fb10.chunk.js": "/static/js/2.2ba1fb10.chunk.js",
-    "static/js/2.2ba1fb10.chunk.js.map": "/static/js/2.2ba1fb10.chunk.js.map",
-    "static/js/3.561a4219.chunk.js": "/static/js/3.561a4219.chunk.js",
-    "static/js/3.561a4219.chunk.js.map": "/static/js/3.561a4219.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.26dbc0291a46fcba8c3eaadfa74ad88c.js": "/precache-manifest.26dbc0291a46fcba8c3eaadfa74ad88c.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8f513fd7.chunk.css.map": "/static/css/main.8f513fd7.chunk.css.map",
-    "static/js/2.2ba1fb10.chunk.js.LICENSE.txt": "/static/js/2.2ba1fb10.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/static/media/logo.97983c65.png"
+    "main.css": "/genkipets-web/static/css/main.df168b36.chunk.css",
+    "main.js": "/genkipets-web/static/js/main.6dffd12f.chunk.js",
+    "main.js.map": "/genkipets-web/static/js/main.6dffd12f.chunk.js.map",
+    "runtime-main.js": "/genkipets-web/static/js/runtime-main.00e5a113.js",
+    "runtime-main.js.map": "/genkipets-web/static/js/runtime-main.00e5a113.js.map",
+    "static/js/2.2ba1fb10.chunk.js": "/genkipets-web/static/js/2.2ba1fb10.chunk.js",
+    "static/js/2.2ba1fb10.chunk.js.map": "/genkipets-web/static/js/2.2ba1fb10.chunk.js.map",
+    "static/js/3.7dc39de5.chunk.js": "/genkipets-web/static/js/3.7dc39de5.chunk.js",
+    "static/js/3.7dc39de5.chunk.js.map": "/genkipets-web/static/js/3.7dc39de5.chunk.js.map",
+    "index.html": "/genkipets-web/index.html",
+    "precache-manifest.f6e141ad731b508052d23ca9fdb34b9d.js": "/genkipets-web/precache-manifest.f6e141ad731b508052d23ca9fdb34b9d.js",
+    "service-worker.js": "/genkipets-web/service-worker.js",
+    "static/css/main.df168b36.chunk.css.map": "/genkipets-web/static/css/main.df168b36.chunk.css.map",
+    "static/js/2.2ba1fb10.chunk.js.LICENSE.txt": "/genkipets-web/static/js/2.2ba1fb10.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/genkipets-web/static/media/logo.97983c65.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.655d7bce.js",
+    "static/js/runtime-main.00e5a113.js",
     "static/js/2.2ba1fb10.chunk.js",
-    "static/css/main.8f513fd7.chunk.css",
-    "static/js/main.5b9b3918.chunk.js"
+    "static/css/main.df168b36.chunk.css",
+    "static/js/main.6dffd12f.chunk.js"
   ]
 }
