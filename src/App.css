@@ -1,7 +1,10 @@
+.Container {
+	max-height: 100vh;
+	overflow-y: scroll;
+}
+
 .App {
 	text-align: center;
-	max-height: 100vh;
-	overflow-y: auto;
 }
 
 .App-logo {
@@ -45,9 +48,13 @@ button {
 }
 
 @media (max-width: 768px) {
+
+	.Container {
+		max-height: 100vh;
+		overflow-y: scroll;
+	}
+
 	.App {
 		text-align: center;
-		max-height: 100vh;
-		overflow-y: auto;
 	}
 }

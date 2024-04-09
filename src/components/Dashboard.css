@@ -1,5 +1,3 @@
-/* src/components/Dashboard.css */
-
 .dashboard {
 	display: flex;
 	justify-content: space-between;
@@ -68,9 +66,9 @@
 }
 
 @media (max-width: 768px) {
+
 	.dashboard {
 		flex-direction: column;
-		/* Stack sections vertically on smaller screens */
 	}
 
 	.dashboard-section {

@@ -2,6 +2,7 @@
   "name": "genkipets-web",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://janine2021.github.io/genkipets-web/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

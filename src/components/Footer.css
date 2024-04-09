@@ -1,0 +1,17 @@
+.footer {
+	background-color: rgb(243, 244, 245);
+	color: #333;
+	padding: 20px 0;
+	text-align: center;
+	position: fixed;
+	/* Position the footer */
+	bottom: 0;
+	/* Align to the bottom of the viewport */
+	width: 100%;
+	/* Full width */
+}
+
+.footer-content {
+	max-width: 1200px;
+	margin: 0 auto;
+}
