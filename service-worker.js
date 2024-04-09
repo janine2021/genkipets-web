@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/genkipets-web/precache-manifest.f6e141ad731b508052d23ca9fdb34b9d.js"
+  "/genkipets-web/precache-manifest.3e41706103498dc122d4991bc610557b.js"
 );
 
 self.addEventListener('message', (event) => {
