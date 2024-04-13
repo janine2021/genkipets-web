@@ -1,25 +1,18 @@
 {
   "files": {
-    "main.css": "/genkipets-web/static/css/main.df168b36.chunk.css",
-    "main.js": "/genkipets-web/static/js/main.6dffd12f.chunk.js",
-    "main.js.map": "/genkipets-web/static/js/main.6dffd12f.chunk.js.map",
-    "runtime-main.js": "/genkipets-web/static/js/runtime-main.00e5a113.js",
-    "runtime-main.js.map": "/genkipets-web/static/js/runtime-main.00e5a113.js.map",
-    "static/js/2.2ba1fb10.chunk.js": "/genkipets-web/static/js/2.2ba1fb10.chunk.js",
-    "static/js/2.2ba1fb10.chunk.js.map": "/genkipets-web/static/js/2.2ba1fb10.chunk.js.map",
-    "static/js/3.7dc39de5.chunk.js": "/genkipets-web/static/js/3.7dc39de5.chunk.js",
-    "static/js/3.7dc39de5.chunk.js.map": "/genkipets-web/static/js/3.7dc39de5.chunk.js.map",
+    "main.css": "/genkipets-web/static/css/main.fec40f09.chunk.css",
+    "main.js": "/genkipets-web/static/js/main.4e7e07db.chunk.js",
+    "main.js.map": "/genkipets-web/static/js/main.4e7e07db.chunk.js.map",
+    "runtime~main.js": "/genkipets-web/static/js/runtime~main.9c3d7c47.js",
+    "runtime~main.js.map": "/genkipets-web/static/js/runtime~main.9c3d7c47.js.map",
+    "static/js/2.529476bf.chunk.js": "/genkipets-web/static/js/2.529476bf.chunk.js",
+    "static/js/2.529476bf.chunk.js.map": "/genkipets-web/static/js/2.529476bf.chunk.js.map",
+    "static/js/3.3b6fb9ae.chunk.js": "/genkipets-web/static/js/3.3b6fb9ae.chunk.js",
+    "static/js/3.3b6fb9ae.chunk.js.map": "/genkipets-web/static/js/3.3b6fb9ae.chunk.js.map",
     "index.html": "/genkipets-web/index.html",
-    "precache-manifest.3e41706103498dc122d4991bc610557b.js": "/genkipets-web/precache-manifest.3e41706103498dc122d4991bc610557b.js",
+    "precache-manifest.7d28f729e2649d52a5c59b0dd705f5e1.js": "/genkipets-web/precache-manifest.7d28f729e2649d52a5c59b0dd705f5e1.js",
     "service-worker.js": "/genkipets-web/service-worker.js",
-    "static/css/main.df168b36.chunk.css.map": "/genkipets-web/static/css/main.df168b36.chunk.css.map",
-    "static/js/2.2ba1fb10.chunk.js.LICENSE.txt": "/genkipets-web/static/js/2.2ba1fb10.chunk.js.LICENSE.txt",
+    "static/css/main.fec40f09.chunk.css.map": "/genkipets-web/static/css/main.fec40f09.chunk.css.map",
     "static/media/logo.png": "/genkipets-web/static/media/logo.97983c65.png"
-  },
-  "entrypoints": [
-    "static/js/runtime-main.00e5a113.js",
-    "static/js/2.2ba1fb10.chunk.js",
-    "static/css/main.df168b36.chunk.css",
-    "static/js/main.6dffd12f.chunk.js"
-  ]
+  }
 }
