@@ -1,13 +1,14 @@
 .dashboard {
 	display: flex;
 	justify-content: space-between;
+	margin: 3rem;
 }
 
 .dashboard-section {
 	display: flex;
 	flex-direction: column;
 	flex: 1;
-	margin: 0 8px;
+	margin: 0;
 	border-radius: 8px;
 	overflow: hidden;
 	height: 360px;
@@ -69,6 +70,7 @@
 
 	.dashboard {
 		flex-direction: column;
+		margin: 0;
 	}
 
 	.dashboard-section {

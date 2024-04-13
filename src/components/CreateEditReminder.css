@@ -1,0 +1,10 @@
+/* CreateEditReminder.css */
+
+.reminder-container {
+	margin-bottom: 1rem;
+	/* Bottom margin of 16px (1 rem) */
+}
+
+.reminder-title {
+	font-weight: bold;
+}

@@ -1,62 +1,60 @@
 /* Header.css */
 
 .header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background-color: #fff;
-    color: #333;
-    height: 64px;
-    /* Set the total height of the header */
-    padding: 0 20px;
-    /* Adjust padding as needed */
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #fff;
+	color: #333;
+	height: 64px;
+	/* Set the total height of the header */
+	padding: 0 20px;
+	/* Adjust padding as needed */
 }
 
 .logo-container {
-    display: flex;
-    align-items: center;
-    height: 100%;
-    /* Make the logo container fill the entire height of the header */
+	display: flex;
+	align-items: center;
+	height: 100%;
+	/* Make the logo container fill the entire height of the header */
 }
 
 .logo-link {
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    /* Remove default underline */
-    color: inherit;
-    /* Inherit text color */
+	display: flex;
+	align-items: center;
+	text-decoration: none;
+	color: inherit;
 }
 
 .logo {
-    width: 50px;
-    /* Adjust logo width as needed */
-    margin-right: 10px;
+	width: 50px;
+	/* Adjust logo width as needed */
+	margin-right: 10px;
 }
 
 .logo-text {
-    font-size: 20px;
+	font-size: 20px;
 }
 
 .icons-container {
-    display: flex;
-    height: 100%;
-    /* Make the icons container fill the entire height of the header */
-    align-items: center;
+	display: flex;
+	height: 100%;
+	/* Make the icons container fill the entire height of the header */
+	align-items: center;
 }
 
 .icon-button {
-    background: none;
-    border: none;
-    color: #333;
-    font-size: 20px;
-    margin-left: 10px;
-    cursor: pointer;
-    height: 100%;
-    /* Make the buttons fill the entire height of the icons container */
+	background: none;
+	border: none;
+	color: #333;
+	font-size: 20px;
+	margin-left: 10px;
+	cursor: pointer;
+	height: 100%;
+	/* Make the buttons fill the entire height of the icons container */
 }
 
 .icon-button:hover {
-    color: #999;
-    cursor: pointer;
+	color: #999;
+	cursor: pointer;
 }
